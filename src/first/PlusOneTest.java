@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class PlusOneTest {
     public static void main(String[] args) {
-        int[] digits = new int[]{7, 8, 9};
+        int[] digits = new int[]{1,2,3};
         int[] nums = plusOne(digits);
         System.out.println(Arrays.toString(nums));
     }
